@@ -1,0 +1,2 @@
+npm install ejs --save
+npm install html-pdf --save
